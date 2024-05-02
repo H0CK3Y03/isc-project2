@@ -1,1 +1,1 @@
-## 2. project for ISC - Comuter seminar
+# 2. project for ISC - Comuter seminar
